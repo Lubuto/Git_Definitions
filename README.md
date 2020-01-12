@@ -25,3 +25,8 @@ GIIT TIPS
 On GitHub, navigate to the main page of the repository.
 Under your repository name, click  Settings.
 Under Danger Zone, click Delete this repository.
+
+2. How to add a Remote
+
+To add a new remote, use the git remote add command on the terminal, in the directory your repository is stored at.
+
