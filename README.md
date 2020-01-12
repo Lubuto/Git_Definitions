@@ -17,3 +17,11 @@ To stage a file is to prepare it for a commit. Because git exposes this action t
 
 6. Merge
 Merging takes the changes from one branch (in the same repository or from a fork), and applies them into another.
+
+GIIT TIPS
+
+1. How to remove a repository
+
+On GitHub, navigate to the main page of the repository.
+Under your repository name, click  Settings.
+Under Danger Zone, click Delete this repository.
