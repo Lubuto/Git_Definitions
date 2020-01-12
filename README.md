@@ -15,3 +15,5 @@ A commit, or "revision", is an individual change to a file (or set of files). It
  5. Stage
 To stage a file is to prepare it for a commit. Because git exposes this action to the users control it allows you to create partial commits, or to modify a file, stage it, modify it again, and only commit or revert to the original modification.
 
+6. Merge
+Merging takes the changes from one branch (in the same repository or from a fork), and applies them into another.
