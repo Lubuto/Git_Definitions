@@ -38,5 +38,20 @@ Use the git remote rm command to remove a remote URL from your repository.
 
 You can get a list of any configured remote URLs with the command git remote -v.
 
+5. How to list branches
+
+Use following command to list all branches on local and all remote repositories.
+
+git branch -a 
+
+//output
+
+* development
+  master
+  staging
+  remotes/origin/development
+  remotes/origin/master
+  remotes/origin/staging
+
 
 
