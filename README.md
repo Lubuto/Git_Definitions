@@ -1,1 +1,1 @@
-# Git_Definitions
+GIT DEFINITIONS
