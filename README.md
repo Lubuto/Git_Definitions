@@ -11,3 +11,7 @@ A commit, or "revision", is an individual change to a file (or set of files). It
 
  4. Status
  A status is a type of status check on GitHub. See "Status checks."
+ 
+ 5. Stage
+To stage a file is to prepare it for a commit. Because git exposes this action to the users control it allows you to create partial commits, or to modify a file, stage it, modify it again, and only commit or revert to the original modification.
+
