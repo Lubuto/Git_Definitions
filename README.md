@@ -34,4 +34,9 @@ To add a new remote, use the git remote add command on the terminal, in the dire
 
 Use the git remote rm command to remove a remote URL from your repository.
 
+4. How to list remotes
+
+You can get a list of any configured remote URLs with the command git remote -v.
+
+
 
