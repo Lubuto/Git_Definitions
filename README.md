@@ -30,3 +30,8 @@ Under Danger Zone, click Delete this repository.
 
 To add a new remote, use the git remote add command on the terminal, in the directory your repository is stored at.
 
+3.How to Remove a Remote
+
+Use the git remote rm command to remove a remote URL from your repository.
+
+
