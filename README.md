@@ -52,6 +52,11 @@ git branch -a
   remotes/origin/development
   remotes/origin/master
   remotes/origin/staging
+  
+  6. How to list commits
+  
+You can find all the commits that don't appear to be referenced any more- git fsck --unreachable will do this for you- but that will include commits that you threw away after a git commit --amend, old commits on branches that you rebased etc etc. So seeing all these commits at once is quite likely far too much information to wade through.
+
 
 
 
